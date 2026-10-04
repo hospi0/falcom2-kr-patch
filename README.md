@@ -3,7 +3,7 @@
 ## 내려받기
 - 최신 **v0.9** — [릴리즈](https://github.com/hospi0/falcom2-kr-patch/releases/latest)에서 `FalcomClassics2_KR_v0.9.zip`
 - 대상: `Falcom Classics II (Japan)` 트랙 1 (트랙 2개)
-- 원본md5 `F318CEAB24508302E15DF193F3969373` → 패치md5 `45D2BE0A7EAB4F592FED4CCBBF2BC92D`
+- 원본md5 `F318CEAB24508302E15DF193F3969373` → 패치md5 `F7385620F3B76EB02E2D8624A63EF6B9`
 - 이스 II(대사·아이템·그림 글자·동영상 자막) · 태양의 신전 아스테카 II(대사·그림 글자) · 타이틀 메뉴
 
 ## 작업 저장소
